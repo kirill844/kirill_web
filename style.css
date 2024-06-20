@@ -1,0 +1,47 @@
+body{margin: -0px;}
+h1{padding: 10px;
+}
+.a{margin: -5%; padding-right: 20px;}
+.b{margin: 5%; padding-left: 2px;}
+
+header{
+    height: 200px ;/* высота блока */
+    background-color: #542185;/* цвет блока */
+    text-align: center;
+
+    font-size: 40px;
+    margin:auto;
+    background-image: url(https://www.codingexercises.com/img/2021-02-24/vs-code-logo.png);
+    background-size:auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+main{
+    height: 800px;
+    background-color: #2642df;
+    display: flex;
+    font-size: 30px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s);
+    background-size:contain;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:large;
+}
+.left{width: 50%; text-align: center;}
+.right{width: 50%;text-align: right;}
+footer{
+    height: 400px ;
+    background-color: #000000;
+    text-align: left;
+    
+
+    font-size: 30px; 
+    padding-right: 70%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+    
+}
+.d{color: blanchedalmond;}
+.social{
+    list-style: none;
+    
+}
+
